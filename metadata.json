@@ -1,0 +1,8 @@
+{
+  "description": "Application de traduction de vidéo automatique (Rask AI Clone) utilisant Gemini et FFmpeg.wasm.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "name": "Copy of App"
+}
